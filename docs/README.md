@@ -2,4 +2,4 @@
 
 My name is Jacob Elford. I am a 2nd year astrophysics PhD student at Cardiff University studying nearby galaxies.
 
-<img align="right" alt="Profile" width="200" style="float:right"/>
+<img src="./assests/Profile.jpg" align="right" alt="Profile" width="200">

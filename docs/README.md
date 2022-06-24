@@ -2,4 +2,4 @@
 
 My name is Jacob Elford. I am a 2nd year astrophysics PhD student at Cardiff University studying nearby galaxies.
 
-<img src="./assets/HerculesA~orig.jpg" alt="Image of Hercules A"/>
+<img src="./assets/HerculesA~orig.jpg" alt="Image of Hercules A" widht="500"/>
